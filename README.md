@@ -21,7 +21,7 @@
   
 </div>
 
-## I worked with these technologies before 👇
+## I work with these technologies 👇
 <br />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
