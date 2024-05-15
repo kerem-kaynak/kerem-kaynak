@@ -44,7 +44,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerem-kaynak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerem-kaynak&layout=compact&theme=vision-friendly-dark&exclude_repo=pairs-trading-with-ml)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
