@@ -13,8 +13,8 @@
 <br />
 <div align="left" >
   
-- 🔭  Currently studying Software Engineering @CODE University of Applied Sciences
-- 🖥️  Working @earlybirdvc as a Software Engineer
+- 🔭  Studied Software Engineering @CODE University of Applied Sciences
+- 🖥️  Working @tastyurban as a Software and Data Engineer
 - 🏦  Previously studied Economics
 - 🌱  Before software engineering, I worked in management consulting, VCs, growth marketing and co-founded a startup
 - 🤔  Mostly work on Backend and Data topics, but enjoy touching different parts of the stack
