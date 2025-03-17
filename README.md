@@ -14,7 +14,7 @@
 <div align="left" >
   
 - 🔭  Studied Software Engineering @CODE University of Applied Sciences
-- 🖥️  Working @kuro-technology as a Software and Data Engineer
+- 🖥️  Working @kuro-technology as a Software Engineer
 - 🏦  Previously studied Economics
 - 🌱  Before software engineering, I worked in management consulting, VCs, growth marketing and co-founded a startup
 - 🤔  Mostly work on Backend and Data topics, but enjoy touching different parts of the stack
