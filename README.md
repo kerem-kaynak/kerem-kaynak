@@ -4,7 +4,9 @@
 
 ### I'm Kerem, a software engineer from Berlin.
 
-I like building things from scratch. Nowadays you can find me taming LLMs and plugging them into deterministic pipelines, developing agent runtimes and infrastructure or trying to crack open unstructured file formats.
+I like building things from scratch.
+
+Nowadays you can find me taming LLMs and plugging them into deterministic pipelines, developing agent runtimes and infrastructure or trying to crack open unstructured file formats.
 
 <br />
 
